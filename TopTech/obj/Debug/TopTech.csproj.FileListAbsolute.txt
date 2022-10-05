@@ -1,0 +1,132 @@
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\bin\Debug\TopTech.exe.config
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\bin\Debug\TopTech.exe
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\bin\Debug\TopTech.pdb
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.csproj.AssemblyReference.cache
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.Form1.resources
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.Login.resources
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.Properties.Resources.resources
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.csproj.GenerateResource.cache
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.exe
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.pdb
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\bin\Debug\Interop.WMPLib.dll
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\Interop.WMPLib.dll
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.csproj.ResolveComReference.cache
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.RecursosHumanos.resources
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\bin\Debug\MySql.Data.dll
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.csproj.CopyComplete
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.ModRH.resources
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.ModEmpleadosRH.resources
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.AgenteDeVentas.resources
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.AgenteRelacionesProveedores.resources
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.PedidoAV.resources
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.ModARP.resources
+C:\Users\juanp\Desktop\Tareas y trabajos\POEV\Visual\TopTech\TopTech\obj\Debug\TopTech.ModProveedoresARP.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\bin\Debug\TopTech.exe.config
+C:\Users\Claudio\Downloads\TopTech\TopTech\bin\Debug\TopTech.exe
+C:\Users\Claudio\Downloads\TopTech\TopTech\bin\Debug\TopTech.pdb
+C:\Users\Claudio\Downloads\TopTech\TopTech\bin\Debug\Interop.WMPLib.dll
+C:\Users\Claudio\Downloads\TopTech\TopTech\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.csproj.AssemblyReference.cache
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\Interop.WMPLib.dll
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.csproj.ResolveComReference.cache
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.AgenteDeVentas.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.AgenteRelacionesProveedores.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.Form1.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.Login.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.ModARP.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.ModEmpleadosRH.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.ModProveedoresARP.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.ModRH.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.PedidoAV.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.Properties.Resources.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.RecursosHumanos.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.csproj.GenerateResource.cache
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.csproj.CopyComplete
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.exe
+C:\Users\Claudio\Downloads\TopTech\TopTech\obj\Debug\TopTech.pdb
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\bin\Debug\TopTech.exe.config
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\bin\Debug\TopTech.exe
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\bin\Debug\TopTech.pdb
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\bin\Debug\Interop.WMPLib.dll
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.csproj.AssemblyReference.cache
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\Interop.WMPLib.dll
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.csproj.ResolveComReference.cache
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.AgenteDeVentas.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.AgenteRelacionesProveedores.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.Form1.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.Gerente.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.Login.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.ModARP.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.ModEmpleadosRH.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.ModProveedoresARP.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.ModRH.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.PedidoAV.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.Properties.Resources.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.RecursosHumanos.resources
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.csproj.GenerateResource.cache
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.csproj.CopyComplete
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.exe
+C:\Users\Claudio\Downloads\TopTech\TopTech\TopTech\obj\Debug\TopTech.pdb
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.csproj.AssemblyReference.cache
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\Interop.WMPLib.dll
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.csproj.ResolveComReference.cache
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.exe
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.pdb
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\bin\Debug\TopTech.exe.config
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\bin\Debug\TopTech.exe
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\bin\Debug\TopTech.pdb
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\bin\Debug\Interop.WMPLib.dll
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.AgenteDeVentas.resources
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.AgenteRelacionesProveedores.resources
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.Form1.resources
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.Gerente.resources
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.Login.resources
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.ModARP.resources
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.ModEmpleadosRH.resources
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.ModProveedoresARP.resources
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.ModRH.resources
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.PedidoAV.resources
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.Properties.Resources.resources
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.RecursosHumanos.resources
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.csproj.GenerateResource.cache
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Desktop\TT\TopTech\TopTech\TopTech\TopTech\obj\Debug\TopTech.csproj.CopyComplete
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\bin\Debug\TopTech.exe.config
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\bin\Debug\TopTech.exe
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\bin\Debug\TopTech.pdb
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\bin\Debug\Interop.WMPLib.dll
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.csproj.AssemblyReference.cache
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.csproj.SuggestedBindingRedirects.cache
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\Interop.WMPLib.dll
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.csproj.ResolveComReference.cache
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.AgenteDeVentas.resources
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.AgenteRelacionesProveedores.resources
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.Form1.resources
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.Gerente.resources
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.Login.resources
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.ModARP.resources
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.ModEmpleadosRH.resources
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.ModProveedoresARP.resources
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.ModRH.resources
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.PedidoAV.resources
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.Properties.Resources.resources
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.RecursosHumanos.resources
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.csproj.GenerateResource.cache
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.csproj.CopyComplete
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.exe
+C:\Users\Claudio\Desktop\TopTech (2)\TopTech\TopTech\obj\Debug\TopTech.pdb
